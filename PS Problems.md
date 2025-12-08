@@ -2,9 +2,13 @@
 
 #include <iostream>
 
+
+
 using namespace std;
+
  
 int main() {
+
     int x,y;
     cin>>x>>y;
     int count=0;
@@ -20,8 +24,11 @@ int main() {
 
  #include <iostream>
 
+ 
+
 int main()
 {
+
     string s;
     cin >> s;
     string target = "hello";
