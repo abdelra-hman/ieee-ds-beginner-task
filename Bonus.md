@@ -1,6 +1,7 @@
 ## 1- codeforces problem
 
-'''#include <bits/stdc++.h>
+``cpp
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -18,7 +19,7 @@ int main() {
         cout << _max - _min << endl;
     }
     return 0;
-}'''
+}
 
 ## 2-What is the difference between Regression and Classification.
 -
