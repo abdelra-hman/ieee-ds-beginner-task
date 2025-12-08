@@ -1,10 +1,11 @@
 ## 1- codeforces problem
 
+
+
 #include <bits/stdc++.h>
 using namespace std;
-
-
-int main() {
+int main() 
+{
 
     int t;
     cin >> t;
@@ -21,9 +22,7 @@ int main() {
         int _min = *min_element(v.begin(), v.end());
         cout << _max - _min << endl;
     }
-    return 0;
-
-    
+    return 0;   
 }
 
 
