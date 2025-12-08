@@ -26,8 +26,10 @@
 
  ## 6-How can you generate random numbers in Python
 
- - import random 
+ - import random
+   
    x=random.randint(1,200)
+   
    print(x)
 
 ## 7-What is break, continue and pass in Python
@@ -37,11 +39,14 @@
 
 ## 8-How can you reverse all the items in a list in Python using just one line of code?
 - _list=[1,2,3,4,5,6,7,8]
+  
   _list=_list[::-1]
+  
   print(_list)
 
 ## 9-Given a list of integers numbers = [2, 7, 3, 9, 5], write a Python code snippet to find and print the maximum value in the lis
 - numbers=[2, 7, 3, 9, 5]
+  
   print(max(numbers))
 
 ## 10 What is an outlier in a dataset, and how would you explain it to someone who is new to statistics
