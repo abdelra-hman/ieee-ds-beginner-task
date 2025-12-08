@@ -15,7 +15,6 @@ int main() {
         }
         int _max = *max_element(v.begin(), v.end());
         int _min = *min_element(v.begin(), v.end());
-
         cout << _max - _min << endl;
     }
     return 0;
