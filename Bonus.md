@@ -37,5 +37,7 @@ int main()
 ## 2-What is the difference between Regression and Classification.
 -
 regression: predicts a continuous number works with linear regression  polynomial regression 
+
+
 classification: Predicts a discrete category/label
 works with logistic regression / decision Trees
